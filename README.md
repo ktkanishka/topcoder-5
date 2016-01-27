@@ -4,4 +4,4 @@
 >
 > -[Topcoder, About Us](https://www.topcoder.com/about/)
 
-These are some of my solutions to some of the programming challenges listed on [Topcoder](www.topcoder.com) using **Java, Python &amp; C++**. By no means are these algorithms the best/most efficient, although I am working on improving the running time and memory usage as I learn.
+These are my solutions to some of the programming challenges listed on [Topcoder](www.topcoder.com) using **Java, Python &amp; C++**. By no means are these algorithms the best/most efficient, although I am working on improving the running time and memory usage as I learn.

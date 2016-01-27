@@ -57,28 +57,3 @@ public:
 	 	return results;
 	 }
 };
-
-// TESTING
-
-/*
-int main(int argc, char* argv[]){
-
-
-	std::string testDrawing = "3 11 18 23 37 45";
-	std::vector<std::string> testPick;
-
-	testPick.push_back("4 7 14 30 33 35");
-	testPick.push_back("1 11 12 25 37 38");
-	testPick.push_back("11 18 19 20 21 22");
-
-	std::vector<int> result = AustrianLotto::evaluate(testDrawing, testPick);
-
-	for(int i = 0 ; i < result.size() ; i++){
-		std::cout << result[i] << " ";
-	}
-
-	std::cout << std::endl;
-
-	return 0;
-}
-*/

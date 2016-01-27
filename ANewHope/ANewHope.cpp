@@ -78,32 +78,4 @@ public:
 
 		return weeks;
 	}
-
 };
-
-//TESTING
-
-int main(int argc, char* argv[]){
-
-	std::vector<int> firstWeek1;
-
-	firstWeek1.push_back(1);
-	firstWeek1.push_back(2);
-	firstWeek1.push_back(3);
-	firstWeek1.push_back(4);
-
-	std::vector<int> lastWeek1;
-	
-	lastWeek1.push_back(4);
-	lastWeek1.push_back(3);
-	lastWeek1.push_back(2);
-	lastWeek1.push_back(1);
-
-	int D1 = 3;
-
-	int result1 = ANewHope::count(firstWeek1, lastWeek1 , D1);
-
-	std::cout << std::endl << result1 << std::endl;
-
-	return 0;
-}
